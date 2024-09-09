@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/khasey/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/khasey/khasey/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
