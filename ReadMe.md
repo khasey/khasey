@@ -43,16 +43,6 @@
 
 ###
 
-# 💫 About Me:
-🔭 I’m currently working on RevealApp<br>👯 I’m looking to collaborate on A.I Stuff<br>🤝 I’m looking for help with A.I<br>🌱 I’m currently learning Pytorch<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@khaseymusic)  
-
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
